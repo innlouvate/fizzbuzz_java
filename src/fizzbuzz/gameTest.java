@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class gameTest extends game {
+public class GameTest extends Game {
 
 	@Test
 	public void testFizzBuzzNumbers() {
